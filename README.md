@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Joshua Briscoe and I studied statistics and pure math at Berkeley. My expertise is in the following areas:
+My name is Josh and I studied statistics and pure math at Berkeley. My expertise is in the following areas:
 
 - Generalized Linear Models
 - Prediction and feature engineering
