@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+
+My name is Joshua Briscoe and I studied statistics and pure math at Berkeley. My expertise is in the following areas:
+
+- Generalized Linear Models
+- Prediction and feature engineering
+- Actuarial and financial risk analysis methods
 
 <!--
 **jcoeman/jcoeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
