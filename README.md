@@ -2,9 +2,9 @@
 
 My name is Josh and I studied statistics and pure math at Berkeley. My expertise is in the following areas:
 
-- Generalized linear models
-- Prediction and feature engineering
-- Financial risk analysis methods
+- Data analysis and data visualization
+- Probability theory
+- Generalized linear modeling techniques
 
 <!--
 **jcoeman/jcoeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
