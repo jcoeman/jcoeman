@@ -1,7 +1,6 @@
-### Hi there 👋
-
 My name is Josh and I studied statistics and pure math at Berkeley. My expertise is in the following areas:
 
+- Actuarial science and data science techniques
 - Data analysis and data visualization
 - Probability theory
 - Generalized linear modeling techniques
