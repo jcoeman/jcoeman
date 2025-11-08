@@ -1,4 +1,4 @@
-My name is Josh and I studied statistics and pure math at Berkeley. My expertise is in the following areas:
+My name is Josh, I am interested in applications of finance, statistics, and computer science in the insurance and risk management industry. My expertise is in the following areas:
 
 - Actuarial science and data science techniques
 - Data analysis and data visualization
